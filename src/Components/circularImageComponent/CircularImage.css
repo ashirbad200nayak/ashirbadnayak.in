@@ -1,0 +1,5 @@
+.circular-image {
+    border-radius: 80%;
+    object-fit: cover; /* Ensures the image covers the entire container */
+  }
+  
